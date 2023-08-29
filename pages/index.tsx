@@ -29,7 +29,7 @@ export default function Ellaei() {
     <>
       <Head>
         <title>Tech 1 Factory</title>
-        <meta name="description" content="LIYAT Remodeling and Restoration" />
+        <meta name="description" content="Transforming Futures Through Innovation and Tech Excellence" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
