@@ -15,8 +15,8 @@ export default function Ellaei() {
     },
     {
       title: "Email",
-      value: 'dev@techethio.com',
-      href: 'mailto:dev@techethio.com'
+      value: 'Mike@t1factory.com',
+      href: 'mailto:Mike@t1factory.com'
     },
     {
       title: "Address",
